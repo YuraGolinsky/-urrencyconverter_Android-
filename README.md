@@ -22,6 +22,7 @@ This app is a simple currency converter for Android written in the Kotlin progra
 
 
 Robot butt
+
 1.Koristuvach enter the amount of 1000 in the input field.
 
 2. Select the currency “from” UAH and “to” USD.
