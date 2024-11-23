@@ -25,11 +25,11 @@ Robot butt
 
 1.Koristuvach enter the amount of 1000 in the input field.
 
-2. Select the currency “from” UAH and “to” USD.
+2.Select the currency “from” UAH and “to” USD.
    
-4. Press the "Convert" button.
+3.Press the "Convert" button.
    
-6. The program calculates the amount in dollars at the sale rate (41.5) and displays the result, for example:
+4.The program calculates the amount in dollars at the sale rate (41.5) and displays the result, for example:
    
 "Result: 24.10 USD."
 
