@@ -25,9 +25,7 @@ Robot butt
 
 
 
-![image](https://github.com/user-attachments/assets/cdea88ce-3da8-4c8d-a32c-8efa0993fbbc)
-
-![image](https://github.com/user-attachments/assets/bdff92f9-4da1-4994-879a-e23090f96729)
+![image](https://github.com/user-attachments/assets/cdea88ce-3da8-4c8d-a32c-8efa0993fbbc)    ![image](https://github.com/user-attachments/assets/bdff92f9-4da1-4994-879a-e23090f96729)
 
 
 
